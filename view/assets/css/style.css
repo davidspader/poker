@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+body{
+  background-color: #41484F;
+}
+
+h1, h2{
+  
+  font-weight: 400;
+  display: inline-block;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 28px;
+  color: #f4f4f4;
+  background-color: #822121;
+}
+
+h2 {
+  color: #822121;
+}
+
+.container{
+  max-width: 1000px;
+  text-align: center;
+  align-items: center;
+  margin: 40px auto;
+  padding: 40px;
+  background-color: #fff;
+  border: 5px solid #212529;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.mao2{
+  margin-top: 20px;
+}
+
+input{
+  border: 1px solid #822121;
+  border-radius: 5px;
+  height: 30px;
+  width: 140px;
+  margin: 5px;
+}
+
+button{
+  margin-top: 20px;
+  background-color: #822121;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+}
+
+.response {
+  margin: 10px;
+  font-size: 16px;
+  color: #822121;
+}
